@@ -1,0 +1,15 @@
+build*/
+temp/
+install/
+.vscode/
+.vs/
+*.kdev4
+*~
+cache/
+out/
+*.csr
+*.key
+*.pem
+*.srl
+*.crt
+CMakeSettings.json
